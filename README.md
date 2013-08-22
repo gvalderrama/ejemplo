@@ -1,2 +1,2 @@
-ejemplo
-=======
+Lorem ipsum
+===========
